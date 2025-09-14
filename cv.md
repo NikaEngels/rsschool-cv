@@ -9,7 +9,9 @@
 
 
 ## Education
-Novosibirsk State Technical University, Automation and computing technology
+Novosibirsk State Technical University, Automation and computing technology  
+
+RS-School JS / Front-end 2025
 ## Tools
 
 ![Jira](https://img.shields.io/badge/-Jira-4D5BA3?style=for-the-badge&logo=Jira&logoColor=blue)
